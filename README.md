@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mukilab
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning web development programming
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web based applicaton projects
 - 📫 How to reach me :Email @mukilabrendah@gmail.com
 
 <!---
